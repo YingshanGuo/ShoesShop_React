@@ -792,6 +792,7 @@ a {
         -ms-flex-align: center;
                 -ms-grid-row-align: center;
             align-items: center;
+                height: 90px;
 }
 
 .adjust-qty__button {
@@ -801,6 +802,7 @@ a {
     border-radius: 10px;
     text-align: center;
     margin: 10px;
+    cursor: pointer;
 }
 
 .adjust-qty--gray .adjust-qty__button {
