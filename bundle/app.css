@@ -792,7 +792,7 @@ a {
         -ms-flex-align: center;
                 -ms-grid-row-align: center;
             align-items: center;
-                height: 90px;
+            height: 90px;
 }
 
 .adjust-qty__button {
